@@ -2,13 +2,13 @@ macro_screen_right: macro_screen_right{
 compatible = "zmk,behavior-macro";
 label = "macro_screen_right";
 #binding-cells = <0>;
-bindings = <&kp LGUI>, <&kp RCTRL>, <&kp RIGHT>;
+bindings = <&kp LG(LC(RIGHT))>;
 };
 macro_screen_left: macro_screen_left{
 compatible = "zmk,behavior-macro";
 label = "macro_screen_left";
 #binding-cells = <0>;
-bindings = <&kp LGUI>, <&kp RCTRL>, <&kp LEFT>;
+bindings = <&kp LG(LC(LEFT))>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
