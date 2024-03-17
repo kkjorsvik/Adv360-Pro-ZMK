@@ -1,1 +1,36 @@
-[]
+[
+	{
+		"names": [
+			"LG(LC(LEFT))"
+		],
+		"description": "LG(LC(LEFT))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LG(LC(RIGHT))"
+		],
+		"description": "LG(LC(RIGHT))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
